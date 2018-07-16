@@ -1,0 +1,5 @@
+# Core app
+/node_modules
+
+# Dev
+.vscode/

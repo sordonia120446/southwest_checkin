@@ -1,0 +1,7 @@
+# Core app
+node_modules/
+tmp/
+
+# Dev
+.eslintrc.js
+.vscode/

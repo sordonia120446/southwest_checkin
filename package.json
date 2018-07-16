@@ -1,0 +1,23 @@
+{
+  "name": "southwest_checkin",
+  "version": "1.0.0",
+  "description": "Check in to Southwest flight",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nightmare",
+    "southwest",
+    "checkin"
+  ],
+  "author": "Sam O",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
